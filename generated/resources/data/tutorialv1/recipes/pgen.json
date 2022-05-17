@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tutorialv1pauagen",
+  "pattern": [
+    "xxx",
+    "x#x",
+    "mmm"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:dirt"
+    },
+    "#": {
+      "tag": "forge:gems/diamond"
+    },
+    "m": {
+      "item": "tutorialv1:kupa_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialv1:pgen"
+  }
+}

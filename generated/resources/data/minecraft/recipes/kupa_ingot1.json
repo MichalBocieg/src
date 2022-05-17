@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "tutorialv1:kupa_ore"
+  },
+  "result": "tutorialv1:kupa_ingot",
+  "experience": 2.0,
+  "cookingtime": 150
+}

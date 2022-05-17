@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialv1:mysterious_ore_overworld",
+    "tutorialv1:mysterious_ore_nether",
+    "tutorialv1:mysterious_ore_end",
+    "tutorialv1:mysterious_ore_deepslate",
+    "tutorialv1:kupa_ore_overworld",
+    "tutorialv1:kupa_ore_nether",
+    "tutorialv1:kupa_ore_end",
+    "tutorialv1:kupa_ore_deepslate",
+    "tutorialv1:powergen",
+    "tutorialv1:pgen"
+  ]
+}

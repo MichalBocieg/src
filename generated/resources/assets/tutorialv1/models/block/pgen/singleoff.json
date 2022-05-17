@@ -1,0 +1,24 @@
+{
+  "textures": {
+    "single": "tutorialv1:block/pgen_off"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        4,
+        4
+      ],
+      "to": [
+        12,
+        12,
+        12
+      ],
+      "faces": {
+        "down": {
+          "texture": "#single"
+        }
+      }
+    }
+  ]
+}
